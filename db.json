@@ -1,8 +1,11 @@
 {
-   "UserID":"TF_Test1",
-   "type":"customer",
-   "name":"TF",
-   "householdData":{
+  "profile": {
+    "UserID":"TF_Test1",
+    "type":"customer",
+    "name":"TF"
+  },
+  
+  "householdData": {
       "HouseID":"h1",
       "deviceData":[
          {
