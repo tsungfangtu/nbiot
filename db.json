@@ -10,26 +10,38 @@
       "deviceData":[
          {
             "mac":"00:11:22:aa:bb:cc",
-            "timestamp":1591342583,
+            "timestamp":1593533180,
             "current":0.02,
             "event":1
          },
          {
             "mac":"00:11:22:aa:bb:cc",
-            "timestamp":1841943518,
+            "timestamp":1593533212,
             "current":0.05,
             "event":0
          },
          {
             "mac":"00:11:22:aa:bb:cc",
-            "timestamp":1948134730,
+            "timestamp":1593552731,
             "current":0.023,
             "event":1
          },
          {
             "mac":"00:11:22:aa:bb:cc",
-            "timestamp":2191342503,
+            "timestamp":1593552782,
             "current":0.04,
+            "event":0
+         },
+         {
+            "mac":"00:11:22:aa:bb:cc",
+            "timestamp":1593565657,
+            "current":0.022,
+            "event":1
+         },
+         {
+            "mac":"00:11:22:aa:bb:cc",
+            "timestamp":1593565730,
+            "current":0.03,
             "event":0
          }
       ]
