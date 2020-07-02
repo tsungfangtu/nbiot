@@ -43,6 +43,42 @@
             "timestamp":1593565730,
             "current":0.03,
             "event":0
+         },
+         {
+            "mac":"00:11:22:aa:bb:cc",
+            "timestamp":1593577433,
+            "current":0.029,
+            "event":1
+         },
+         {
+            "mac":"00:11:22:aa:bb:cc",
+            "timestamp":1593577453,
+            "current":0.03,
+            "event":0
+         },
+         {
+            "mac":"00:11:22:aa:bb:cc",
+            "timestamp":1593590149,
+            "current":0.022,
+            "event":1
+         },
+         {
+            "mac":"00:11:22:aa:bb:cc",
+            "timestamp":1593590205,
+            "current":0.03,
+            "event":0
+         },
+         {
+            "mac":"00:11:22:aa:bb:cc",
+            "timestamp":1593601899,
+            "current":0.032,
+            "event":1
+         },
+         {
+            "mac":"00:11:22:aa:bb:cc",
+            "timestamp":1593601953,
+            "current":0.025,
+            "event":0
          }
       ]
    }
